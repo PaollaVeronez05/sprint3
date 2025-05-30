@@ -6,6 +6,8 @@ Na Sprint 3, a equipe da Vórtice Digital avançou no desenvolvimento do semáfo
 
 Para essa implementação, a empresa utilizou o sistema Arduino, tanto na programação quanto na placa de controle, possibilitando o acionamento inteligente do semáforo. O sensor também foi configurado para reconhecer a aproximação de uma carteirinha para pessoas com deficiência, permitindo a travessia com tempo ampliado, garantindo mais segurança e inclusão no ambiente urbano.
 
- Video 2025-05-29 at 15.55.48.mp4"
+link para a explicação do processo da maquete:
 
-essa foi a programação que utilizamos para que o sistema funcionasse da maneira mais eficiente.
+https://drive.google.com/file/d/1vLtLSpzrU4hUWCr-2rbUoEqkXfVLVibN/view?usp=drive_link
+
+
