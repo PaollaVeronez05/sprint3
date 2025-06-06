@@ -11,6 +11,7 @@ O protótipo no Tinkercad usa um Arduino com dois semáforos para veículos, um 
 Fonte: autoria própria.
 
 Trabalho da maquete final:
+
 A maquete final representa uma ponte construída sobre uma área verde, unindo funcionalidade e preservação ambiental. A ideia integra o protótipo com Arduino, que usa dois semáforos para veículos, um para pedestres e um sensor ultrassônico. Quando o pedestre aproxima a mão do sensor, o sistema fecha o sinal dos carros e abre o dos pedestres, permitindo a travessia segura pela ponte. Depois, o trânsito volta ao normal. O projeto valoriza a sustentabilidade e o uso da tecnologia para melhorar a mobilidade urbana.
 
 
